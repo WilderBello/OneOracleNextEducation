@@ -1,0 +1,1 @@
+agregar la carpeta bin a variables de entorno como JAVA_HOME y al Path.
